@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishna Agarwal
 - 👀 I’m interested in Coading and new computer technologies
-- 🌱 Recently I have learned HTML, CSS, JAVASCRIPT, REACTPYTHON, MYSQL
+- 🌱 Recently I have learned HTML, CSS, JAVASCRIPT, REACT,PYTHON, MYSQL
 - 💞️ I’m looking to collaborate on new CSE projects  
 - 📫 How to reach me
 - contact- 9897481144
