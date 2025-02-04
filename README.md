@@ -5,7 +5,7 @@
 - 📫 How to reach me
 - contact- 9897481144
 - email- krishna016agrawal@gmail.com
-- live website- https://app.netlify.com/teams/krishna016agarwal/sites
+- Portfolio - https://spectacular-sunflower-82bd61.netlify.app/
   
 
 <!---
