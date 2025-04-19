@@ -47,25 +47,9 @@ I am a passionate and self-driven full-stack developer with expertise in buildin
 
 ---
 
-### 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=krishna016agarwal&theme=radical&no-frame=true&row=1&margin-w=10)
 
----
 
-### 🎯 Current Focus
-- **Learning**: Data Structures and Algorithms in Java.
-- **Exploring**: AI/ML, Deep Learning.
-- **Experimenting with**: Serverless architectures with AWS.
-
----
-
-### ✍️ Latest Blog Posts
-
-- 📝 **[How to Build a Scalable Web App with MERN](https://medium.com/@krishna/blog/mern-app)**
-- 📝 **[AI and Machine Learning in Web Development](https://dev.to/krishna/ai-webdev)**
-
----
 
 ### 🔗 Let's Connect & Grow
 
