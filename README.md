@@ -39,7 +39,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" alt="TypeScript" width="50" />
 
 
-  <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="TypeScript" width="90" />
+  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="TypeScript" width="90" />
 
   
   
