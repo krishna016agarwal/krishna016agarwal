@@ -41,7 +41,7 @@
 
 ### 📫 Connect with Me
 
-<p >
+<p>
   <a href="https://www.linkedin.com/in/krishna-agarwal-4a5a76327/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
   </a>
