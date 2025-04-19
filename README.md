@@ -39,7 +39,6 @@
 </p>
 
 ---
-<br>
 ### 📫 Connect with Me
 <br>
 <p>
@@ -58,7 +57,7 @@
 
 
 
-<br>
+
 ### 📊 GitHub Stats
 <br>
 <p align="center">
