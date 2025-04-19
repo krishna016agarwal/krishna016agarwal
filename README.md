@@ -40,11 +40,21 @@
 ---
 
 ### 📫 Connect with Me
-- 📞 **Phone**: +91 9897481144  
-- 📧 **Email**: [krishna016agrawal@gmail.com](mailto:krishna016agrawal@gmail.com)  
- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Java" width="50" />(https://spectacular-sunflower-82bd61.netlify.app/)
 
----
+<p>
+  <a href="https://www.linkedin.com/in/krishna-agarwal-4a5a76327/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:krishna016agrawal@gmail.com">
+    <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGB..." width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://spectacular-sunflower-82bd61.netlify.app/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/726/726107.png" width="40" />
+  </a>
+</p>
+
 
 ### 📊 GitHub Stats
 
