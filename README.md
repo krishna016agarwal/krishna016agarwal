@@ -38,7 +38,7 @@
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" alt="TypeScript" width="50" />
 
-      <img src="https://www.svgrepo.com/show/353724/express.svg" alt="TypeScript" width="50" />
+
   <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="TypeScript" width="50" />
 
   
