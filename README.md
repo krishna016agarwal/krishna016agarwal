@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex;  align-items: center;">
   <div style=" padding-right: 20px;">
     <p>👨‍💻 I'm a Full Stack Developer passionate about building robust applications and learning new technologies.</p>
     <p>📚 Currently diving deep into Data Structures & Algorithms with Java to improve problem-solving skills.</p>
