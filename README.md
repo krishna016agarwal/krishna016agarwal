@@ -46,11 +46,11 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
   </a>
   
-
+<p> </p>
   <a href="mailto:krishna016agrawal@gmail.com">
     <img src="https://www.svgrepo.com/show/10726/email.svg" width="40" />
   </a>
-
+<p> </p>
   <a href="https://spectacular-sunflower-82bd61.netlify.app/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/726/726107.png" width="40" />
   </a>
