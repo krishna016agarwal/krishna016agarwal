@@ -42,7 +42,7 @@
 ### 📫 Connect with Me
 - 📞 **Phone**: +91 9897481144  
 - 📧 **Email**: [krishna016agrawal@gmail.com](mailto:krishna016agrawal@gmail.com)  
-- 🌐 **Portfolio**: [Visit My Website](https://spectacular-sunflower-82bd61.netlify.app/)
+ <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Java" width="50" />(https://spectacular-sunflower-82bd61.netlify.app/)
 
 ---
 
