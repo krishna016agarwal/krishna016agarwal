@@ -66,22 +66,5 @@
 
 ---
 
-### 📌 Featured Projects
 
-- 🔹 **[NyaySetu](https://nyaysetu-1.onrender.com/)**  
-  [GitHub Repo](https://github.com/krishna016agarwal/NyaySetu)  
-  *An AI-powered legal assistant that helps users understand legal concepts, verify documents, and book lawyers.*
 
-- 🔹 **[BOND](https://bond-chatapp.onrender.com/login)**  
-  [GitHub Repo](https://github.com/krishna016agarwal/Bond_ChatApp)  
-  *A real-time chat application built with the MERN stack for seamless communication.*
-
----
-
-### 🔗 Let's Connect & Grow
-
-<p align="center">
-  <a href="mailto:krishna016agrawal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://spectacular-sunflower-82bd61.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/krishna-agarwal-4a5a76327" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
