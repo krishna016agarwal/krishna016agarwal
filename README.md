@@ -20,6 +20,7 @@
 ---
 
 ### 🛠️ Tech Stack
+<br>
 <p style="text-align: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" />
@@ -40,14 +41,16 @@
 ---
 
 ### 📫 Connect with Me
-
+<br>
 <p>
   <a href="https://www.linkedin.com/in/krishna-agarwal-4a5a76327/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
     <a href="mailto:krishna016agrawal@gmail.com">
     <img src="https://www.svgrepo.com/show/10726/email.svg" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
  <a href="https://spectacular-sunflower-82bd61.netlify.app/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/726/726107.png" width="40" />
   </a>
@@ -57,7 +60,7 @@
 
 
 ### 📊 GitHub Stats
-
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishna016agarwal&show_icons=true&theme=radical" alt="Krishna's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna016agarwal&theme=radical" alt="GitHub Streak" />
