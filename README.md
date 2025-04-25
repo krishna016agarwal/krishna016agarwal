@@ -73,7 +73,7 @@
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishna016agarwal&show_icons=true&theme=radical" alt="Krishna's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna016agarwal&theme=radical" alt="GitHub Streak" />
+ 
 
 </p>
 
